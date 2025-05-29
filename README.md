@@ -35,9 +35,9 @@
 ## 🚀 Projects
 | Project                              | Description                                                              | Tech Stack                 | Links                                                                                                          |
 | ------------------------------------ | ------------------------------------------------------------------------ | -------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| **🏥 Hospital Management System**    | A full-stack system to manage patient records, appointments, and billing | React.js, Node.js, MongoDB | [GitHub](https://github.com/abhiii4518/hospital-management-system) · [Live Demo](https://your-demo-link.com)   |
-| **🍽️ Restaurant Management System** | A web app for managing orders, reservations, and staff                   | React.js, Node.js, MongoDB | [GitHub](https://github.com/abhiii4518/restaurant-management-system) · [Live Demo](https://your-demo-link.com) |
-| **🔐 Password Manager**              | A secure app for storing and managing passwords                          | React.js, Node.js, MongoDB | [GitHub](https://github.com/Abhiii4518/MERN_Password-Manager) · [Live Demo](https://your-demo-link.com)             |
+| **🏥 Hospital Management System**    | A full-stack system to manage patient records, appointments, and billing | React.js, Node.js, MongoDB | [GitHub](https://github.com/abhiii4518/hospital-management-system)
+| **🍽️ Restaurant Management System** | A web app for managing orders, reservations, and staff                   | React.js, Node.js, MongoDB | [GitHub](https://github.com/abhiii4518/restaurant-management-system)
+| **🔐 Password Manager**              | A secure app for storing and managing passwords                          | React.js, Node.js, MongoDB | [GitHub](https://github.com/Abhiii4518/MERN_Password-Manager)            
 
 
 ---
