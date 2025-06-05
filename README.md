@@ -9,8 +9,8 @@
 
 ## 🚀 About Me
 
-- 🎓 Studying **BSc.IT - 3rd Year**
-- 💻 Built **Hospital Management System** and **Restaurant Management System** using React.js, Node.js & MongoDB
+- 🎓 Graduate **BSc.IT - 3rd Year - 2025**
+- 💻 Built **Hospital Management System** and **CravAura - Food Delivery Website** using React.js, Node.js, Express.js & MongoDB
 - 📈 Always eager to learn and adopt new technologies
 
 ---
@@ -36,7 +36,7 @@
 | Project                              | Description                                                              | Tech Stack                 | Links                                                                                                          |
 | ------------------------------------ | ------------------------------------------------------------------------ | -------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | **🏥 Hospital Management System**    | A full-stack system to manage patient records, appointments, and billing | React.js, Node.js, MongoDB | [GitHub](https://github.com/Abhiii4518/MERN_Hospital-Management-System)
-| **🍽️ Restaurant Management System** | A web app for managing orders, reservations, and staff                   | React.js, Node.js, MongoDB | [GitHub](https://github.com/Abhiii4518/MERN_Restaurant-Reservation)
+| **🍽️ CravAura** | A food delivery website for delivering foods, managing orders.                   | React.js, Node.js, Express.js, MongoDB | [GitHub](https://github.com/Abhiii4518/CravAura)
 | **🔐 Password Manager**              | A secure app for storing and managing passwords                          | React.js, Node.js, MongoDB | [GitHub](https://github.com/Abhiii4518/MERN_Password-Manager)            
 
 
