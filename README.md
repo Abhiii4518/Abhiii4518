@@ -36,7 +36,7 @@
 | Project                              | Description                                                              | Tech Stack                 | Links                                                                                                          |
 | ------------------------------------ | ------------------------------------------------------------------------ | -------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | **🏥 Hospital Management System**    | A full-stack system to manage patient records, appointments, and billing | React.js, Node.js, MongoDB | [GitHub](https://github.com/Abhiii4518/MERN_Hospital-Management-System)
-| **🍽️ CravAura** | A food delivery website for delivering foods, managing orders.                   | React.js, Node.js, Express.js, MongoDB | [GitHub](https://github.com/Abhiii4518/CravAura)
+| **🍽️ CravAura** | A food delivery website for delivering foods, managing orders.                   | React.js, Node.js, Express.js, MongoDB | [GitHub](https://github.com/Abhiii4518/_CravAura)
 | **🔐 Password Manager**              | A secure app for storing and managing passwords                          | React.js, Node.js, MongoDB | [GitHub](https://github.com/Abhiii4518/MERN_Password-Manager)            
 
 
